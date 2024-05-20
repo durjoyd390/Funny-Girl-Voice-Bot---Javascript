@@ -15,4 +15,4 @@ Questions:<br>
 <br>
 Visit Live at: https://durjoyd390.github.io/Funny-Girl-Voice-Bot---Javascript/
 <br>
-![Capture](https://github.com/durjoyd390/Funny-Girl-Voice-Bot---Javascript/assets/73610695/aff7ff73-27de-4454-9bc9-cecd6d0ddf9e)
+<img src="https://github.com/durjoyd390/Funny-Girl-Voice-Bot---Javascript/assets/73610695/aff7ff73-27de-4454-9bc9-cecd6d0ddf9e">
